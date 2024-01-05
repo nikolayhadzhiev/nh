@@ -43,7 +43,7 @@ The public part of WeTalk introduces users to the essence of the application thr
 - The public part includes a user-friendly login form, allowing users to authenticate with their username and password.
 - A registration form enables new users to join the WeTalk community.
 
-![Landing Page Registration Form](.public/2.WeTalk_Landing_Page_Register.jpg)
+![Landing Page Registration Form](./public/2.WeTalk_Landing_Page_Register.jpg)
 
 ## **Private Part**
 
