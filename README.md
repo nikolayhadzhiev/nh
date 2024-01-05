@@ -31,7 +31,7 @@ The public part of WeTalk introduces users to the essence of the application thr
 
 - A visually appealing landing page that serves as the gateway to the WeTalk experience.
 
-![Landing Page](../WeTalk/public/1.WeTalk_Landing_Page_Sign_In.jpg)
+![Landing Page Sign In](./public/1.WeTalk_Landing_Page_Sign_In.jpg)
 
 ### **Informative Content:**
 
@@ -43,7 +43,7 @@ The public part of WeTalk introduces users to the essence of the application thr
 - The public part includes a user-friendly login form, allowing users to authenticate with their username and password.
 - A registration form enables new users to join the WeTalk community.
 
-![Landing Page Registration Form](../WeTalk/public/2.WeTalk_Landing_Page_Register.jpg)
+![Landing Page Registration Form](.public/2.WeTalk_Landing_Page_Register.jpg)
 
 ## **Private Part**
 
@@ -51,10 +51,10 @@ The private part of WeTalk offers a rich set of features for authenticated users
 
 ### **Home Page**
 
-![Teams and Channels](../WeTalk/public/18.WeTalk_Carousel_1.jpg)
-![Teams and Channels](../WeTalk/public/19.WeTalk_Carousel_2.jpg)
-![Teams and Channels](../WeTalk/public/20.WeTalk_Carousel_3.jpg)
-![Teams and Channels](../WeTalk/public/21.WeTalk_Carousel_4.jpg)
+![Home Page Carousel 1](./public/18.WeTalk_Carousel_1.jpg)
+![Home Page Carousel 2](./public/19.WeTalk_Carousel_2.jpg)
+![Home Page Carousel 3](./public/20.WeTalk_Carousel_3.jpg)
+![Home Page Carousel 4](./public/21.WeTalk_Carousel_4.jpg)
 
 ### **Teams and Channels:**
 
@@ -64,15 +64,15 @@ The private part of WeTalk offers a rich set of features for authenticated users
 - Each team channel supports real-time chat, GIFs, image sharing, emojis, and typing status indicators.
 - Channel settings include options to add more team members, delete channels, leave channels, and manage media (available only to channel creators).
 
-![Teams and Channels](../WeTalk/public/5.WeTalk_Single_Team_Channel.jpg)
+![Single Team Channel](./public/5.WeTalk_Single_Team_Channel.jpg)
 
-![Teams and Channels](../WeTalk/public/8.WeTalk_Team_Options.jpg)
+![Team Options](./public/8.WeTalk_Team_Options.jpg)
 
-![Teams and Channels](../WeTalk/public/7.WeTalk_Team_Members.jpg)
+![Team Members](./public/7.WeTalk_Team_Members.jpg)
 
-![Teams and Channels](../WeTalk/public/9.WeTalk_Schedule_Meeting.jpg)
+![Team Schedule Meeting](./public/9.WeTalk_Schedule_Meeting.jpg)
 
-![Teams and Channels](../WeTalk/public/10.WeTalk_Calendar.jpg)
+![Meetings calendar](./public/10.WeTalk_Calendar.jpg)
 
 ### **Chats:**
 
@@ -83,31 +83,37 @@ The private part of WeTalk offers a rich set of features for authenticated users
 - Ability to edit or delete messages.
 - Message status indicators ("delivered," "seen," "seen by all") based on recipient actions.
 
-![Teams and Channels](../WeTalk/public/4.WeTalk_Single_Message.jpg)
+![Single Message](./public/4.WeTalk_Single_Message.jpg)
 
-![Teams and Channels](../WeTalk/public/3.WeTalk_Single_Message.jpg)
+![Single Message 2](./public/3.WeTalk_Single_Message.jpg)
 
 ### **Calls:**
 
 - Audio and video calls are supported within both channels and individual chats.
 - Channel chat settings include options for adding members, deleting channels, and managing media, with specific permissions for channel creators.
 
-![Teams and Channels](../WeTalk/public/14.WeTalk_Ongoing_Call.jpg)
+![Ongoing call message](./public/14.WeTalk_Ongoing_Call.jpg)
 
-![Teams and Channels](../WeTalk/public/13.WeTalk_Call_Joining_Page.jpg)
+![Joining call](./public/13.WeTalk_Call_Joining_Page.jpg)
 
-![Teams and Channels](../WeTalk/public/15.WeTalk_Ongoing_Call_Participants.jpg)
+![Call layout view](./public/15.WeTalk_Ongoing_Call_Participants.jpg)
 
-![Teams and Channels](../WeTalk/public/16.WeTalk_Finished_Call.jpg)
+![Finished call message](./public/16.WeTalk_Finished_Call.jpg)
 
-![Teams and Channels](../WeTalk/public/17.WeTalk_Delivered_Message.jpg)
+![Delivered message](./public/17.WeTalk_Delivered_Message.jpg)
+
+### **Chat GPT**
+
+- Integrated chat GPT with OpenAI enhances communication and collaboration within channels and chats.
+
+![Chat GPT](./public/11.WeTalk_Chat_GPT.jpg)
 
 ### **Ability to change user status**
 
 - Users can change their status to online, offline, or busy.
 - Also set a profile picture, edit first and last name.
 
-![Teams and Channels](../WeTalk/public/12.WeTalk_User_Settings.jpg)
+![User settings](./public/12.WeTalk_User_Settings.jpg)
 
 ### **Notifications:**
 
@@ -115,13 +121,13 @@ The private part of WeTalk offers a rich set of features for authenticated users
 - Review and navigate to relevant chats or teams by clicking on notifications.
 - Users can delete notifications as needed.
 
-![Teams and Channels](../WeTalk/public/6.WeTalk_Notifications.jpg)
+![Notifications](./public/6.WeTalk_Notifications.jpg)
 
 ### **Dark Theme**
 
 - The app supports a dark theme for a more comfortable viewing experience.
 
-![Teams and Channels](../WeTalk/public/22.WeTalk_Dark_Theme.jpg)
+![Dark theme](./public/22.WeTalk_Dark_Theme.jpg)
 
 ### **More Features:**
 
