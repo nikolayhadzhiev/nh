@@ -98,7 +98,7 @@ The private part of WeTalk offers a rich set of features for authenticated users
 
 ![Call layout view](./public/15.WeTalk_Ongoing_Call_Participants.jpg)
 
-![Finished call message](./public/16.WeTalk_Finished_Call.jpg)
+![Finished call message](./public/16.WeTalk_Finished_Call_Message.jpg)
 
 ![Delivered message](./public/17.WeTalk_Delivered_Message.jpg)
 
